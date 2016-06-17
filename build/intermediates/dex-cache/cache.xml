@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8964604b8121564c05c879cabdca6e1eb4a0c3bd">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_4aaa9e9e73e97175a4fe823bf884b0aff582ff80/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_be2535ed5d68f16900e18f15c85531e8ecc3dd62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_6eaeab6ee63fd5143bda3efde3d5b91cfc34608b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_628a99f5636f0aac9486947a3f0a8fd15ac23a9f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_96d1f717d84203adedc7bf30b4662dd837e1555e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_667e01a925fb8dcd6a123cb99c9388612b3ab826/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_c9a32328d835a8f6235ae2e87e4b488a6f8aae9e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_71d484193b4e84cb5b1b3c43e2d4b1a15b72e4dc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfc5e4ec6ae80309586081368ba55f9c90bb9784">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_75d3bcabc42e976458865e34ea3cd8152b11302c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/Users/delia/AndroidStudioProjects/MyNote/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_40c49256f9d9d97c3b808d59d8ef89e20a5f70e7/classes.dex" />
+    </item>
+
+</items>
